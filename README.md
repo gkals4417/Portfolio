@@ -63,3 +63,15 @@
 * https://github.com/gkals4417/WeatherApp
 
 ---
+
+### 출시 앱
+
+날씨보여줭<br/>
+<img src = "https://user-images.githubusercontent.com/70322435/203224647-c0835a8b-fac8-4f9f-91a0-5a9dc14b2572.png" width="10%" height="10%">
+
+* 해커톤을 통해 첫 개발 및 출시
+* 2022.10.05 - 2022.11.18
+* 초기 : openWeather의 API를 통해 현재 날씨를 상황에 따라 보여주는 앱
+* 후기 : 업데이트를 통해 Apple의 WeatherKit을 이용하여 현재 날씨를 보여주도록 변경
+* MVC, WeatherKit, CoreData 사용
+* [앱스토어 링크](https://apps.apple.com/kr/app/%EB%82%A0%EC%94%A8%EB%B3%B4%EC%97%AC%EC%A4%AD/id6444105141)
