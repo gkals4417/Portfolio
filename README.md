@@ -48,7 +48,7 @@
 * Language : <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat&logo=Swift&logoColor=F05138"/><br/>
 * Version Control : <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=GitHub&logoColor=181717"/><br/>
 * Design Collaboration : <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=F24E1E"/><br/>
-* Communication : <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=Slack&logoColor=4A154B"/><br/>
+* Communication : <img src="https://img.shields.io/badge/Slack-FFFFFF?style=flat&logo=Slack&logoColor=4A154B"/><br/>
 * Architecture : MVC
 
 ---
