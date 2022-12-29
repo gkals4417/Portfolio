@@ -104,5 +104,6 @@
         - CRUD 메서드가 작동할 때마다 데이터를 저장하고, 그 후 바로 배열을 새로 불러와서 tableView 또는 collectionView를 업데이트하는 방식으로 해결할 수 있게 되었습니다.
     - 외부 라이브러리를 Swift Package Manager를 통해 어떻게 받고 사용하는지 알게 됨
     - Apple의 WeatherKit 프레임워크를 사용하면서 Task, async, await을 사용하고, 이를 통해 비동기에 대해 공부를 하게 됨
-        - WeatherKit은 모두 비동기로 작동을 하게 되는데, 비동기에 대해 잘 알지 못하여 프레임워크를 사용할
+        - WeatherKit은 모두 비동기로 작동을 하게 되는데, 비동기에 대해 잘 알지 못하여 프레임워크를 사용할 수 없었습니다.
+        - Task, async, await에 대해 공부를 한 뒤 WeatherKit을 정상적으로 사용할 수 있게 되었습니다.
 * [앱스토어 링크](https://apps.apple.com/kr/app/%EB%82%A0%EC%94%A8%EB%B3%B4%EC%97%AC%EC%A4%AD/id6444105141)
