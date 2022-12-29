@@ -12,7 +12,7 @@
 * Github : https://github.com/gkals4417
 * LinkedIn : https://www.linkedin.com/in/pulsar0801/
 * Blog : https://velog.io/@gkals4417
-* Tel : +82 10 25382498
+* Tel : +8210-2538-2498
 ---
 
 ### About Me
